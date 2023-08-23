@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TDE-aula3/1.0.0": {
+        "runtime": {
+          "TDE-aula3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TDE-aula3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

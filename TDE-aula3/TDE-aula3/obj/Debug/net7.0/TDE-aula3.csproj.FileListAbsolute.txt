@@ -1,0 +1,15 @@
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\bin\Debug\net7.0\TDE-aula3.exe
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\bin\Debug\net7.0\TDE-aula3.deps.json
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\bin\Debug\net7.0\TDE-aula3.runtimeconfig.json
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\bin\Debug\net7.0\TDE-aula3.dll
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\bin\Debug\net7.0\TDE-aula3.pdb
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\obj\Debug\net7.0\TDE-aula3.csproj.AssemblyReference.cache
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\obj\Debug\net7.0\TDE-aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\obj\Debug\net7.0\TDE-aula3.AssemblyInfoInputs.cache
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\obj\Debug\net7.0\TDE-aula3.AssemblyInfo.cs
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\obj\Debug\net7.0\TDE-aula3.csproj.CoreCompileInputs.cache
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\obj\Debug\net7.0\TDE-aula3.dll
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\obj\Debug\net7.0\refint\TDE-aula3.dll
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\obj\Debug\net7.0\TDE-aula3.pdb
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\obj\Debug\net7.0\TDE-aula3.genruntimeconfig.cache
+C:\Git\Ulbra\FIA\TDE-aula3\TDE-aula3\obj\Debug\net7.0\ref\TDE-aula3.dll
